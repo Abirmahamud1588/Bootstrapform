@@ -12,6 +12,7 @@ section{
     background-image: url("../register-img.jpg");
     width: 100%;
     height: 800px;
+   background-size: cover;
 }
 .myf{
     width: 100%;
